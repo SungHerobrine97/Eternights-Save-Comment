@@ -29,7 +29,8 @@
 # 已知问题
 
 - 如果"BlackMother"对应暗怖拉，"WhiteMother"对应洛克丝（虽然游戏内剧情已经说明），那么我们需要解析"BlackMotherEssence"和"WhiteMotherEssence"在剧情内对应的含义。
-
+- 本仓库的`save.sav.jsonc`文件原本为`save.sav
+`且文件内容为JSON格式，为了方便阅读引入了注释并保存为jsonc文件（**标准的JSON文件不允许任何注释**）。
 # 如何提交发现
 
 直接通过Github Issue提交新Issue，只需遵守Github Guidelines就行。
